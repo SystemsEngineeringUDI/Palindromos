@@ -1,0 +1,2 @@
+# Palindromos
+Lo que hace especial al palíndromo 595 es que puede ser escrito como la suma de los cuadrados consecutivos: 6 ^ 2 + 7 ^ 2 + 8 ^ 2 + 9 ^ 2 + 10 ^ 2 + 11 ^ 2 + 12 ^ 2 Hay, exactamente, una vez palíndromos menores que pueden ser escritos como la sumatoria de cuadrados consecutivos y su suma es 4164. Note que 1 = 0 ^ 2 + 1 ^ 2. La sumatoria de todos los números menores que 108 que son palíndromos y pueden estar escritos como la suma del cuadrado de números consecutivos.
